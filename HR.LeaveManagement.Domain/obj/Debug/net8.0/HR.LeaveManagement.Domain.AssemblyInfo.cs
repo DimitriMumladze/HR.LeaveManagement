@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HR.LeaveManagement.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9256d78d0836e35c0554f7e7d581f05c43bee42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f6249b33a4fa4f6bcff342b5631a16b7242c098")]
 [assembly: System.Reflection.AssemblyProductAttribute("HR.LeaveManagement.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HR.LeaveManagement.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
