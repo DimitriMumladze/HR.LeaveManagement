@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavestypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavestypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\contracts\\persistence\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\contracts\\persistence\\ileaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\ileaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavestypes\\getleavetypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavestypes\\getleavetypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavestypes\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavestypes\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\contracts\\persistence\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +39,8 @@
       "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\contracts\\persistence\\ileaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\ileaveallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\contracts\\persistence\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavestypes\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavestypes\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\hr.leavemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\hr.leavemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "GetLeaveTypesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\GetLeaveTypesQueryHandler.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\GetLeaveTypesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\GetLeaveTypesQueryHandler.cs*",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\GetLeaveTypesQueryHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T09:25:39.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetLeaveTypesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\GetLeaveTypesQuery.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\GetLeaveTypesQuery.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\GetLeaveTypesQuery.cs*",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\GetLeaveTypesQuery.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T09:23:50.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ILeaveTypeRepository.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
@@ -59,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ILeaveRequestRepository.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
@@ -72,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ILeaveAllocationRepository.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
@@ -85,25 +119,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericRepository.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericRepository.cs*",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T09:07:26.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LeaveTypeDto.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\LeaveTypeDto.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\LeaveTypeDto.cs",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\LeaveTypeDto.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\LeaveTypeDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\LeaveTypeDto.cs*",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeavesTypes\\LeaveTypeDto.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T09:06:04.784Z",
@@ -111,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "HR.LeaveManagement.Application",
               "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
@@ -131,13 +165,17 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LeaveTypeProfile.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs*",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T08:55:05.331Z",
@@ -145,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ApplicationServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\ApplicationServiceRegistration.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\ApplicationServiceRegistration.cs",
