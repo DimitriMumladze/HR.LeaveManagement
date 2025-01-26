@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\source\\repos\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {}
+    "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\source\\repos\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+    "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\source\\repos\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "projectName": "HR.LeaveManagement.Domain",
-        "projectPath": "C:\\Users\\dimit\\source\\repos\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectPath": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\source\\repos\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,19 @@
+# Ignore build artifacts
+bin/
+obj/
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IDE-specific files
+.vs/
+.idea/
+
+# Ignore package manager files
+node_modules/
+packages/
+
+# Ignore specific files
+secrets.txt
+database.config
