@@ -1,13 +1,13 @@
 ﻿using FluentValidation;
 using HR.LeaveManagement.Application.Contracts.Persistence;
 
-namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.CreateLeaveType;
+namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.UpdateLeaveType;
 
-public class CreateLeaveTypeCommandValidator : AbstractValidator<CreateLeaveTypeCommand>
+public class UpdateLeaveTypeCommandValidator : AbstractValidator<UpdateLeaveTypeCommand>
 {
     private readonly ILeaveTypeRepository _leaveTypeRepository;
 
-    public CreateLeaveTypeCommandValidator(ILeaveTypeRepository leaveTypeRepository)
+    public UpdateLeaveTypeCommandValidator(ILeaveTypeRepository leaveTypeRepository)
     {
         RuleFor(p => p.Name)
             .NotEmpty().WithMessage("{PropertyName} is required")
@@ -25,7 +25,7 @@ public class CreateLeaveTypeCommandValidator : AbstractValidator<CreateLeaveType
         _leaveTypeRepository = leaveTypeRepository;
     }
 
-    private Task<bool> LeaveTypeNameUnique(CreateLeaveTypeCommand command, CancellationToken token)
+    private Task<bool> LeaveTypeNameUnique(UpdateLeaveTypeCommand command, CancellationToken token)
     {
         return _leaveTypeRepository.IsLeaveTypeUnique(command.Name);
     }

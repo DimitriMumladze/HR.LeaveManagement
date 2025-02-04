@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\contracts\\persistence\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\dimit\\desktop\\hr.leavemanagement\\hr.leavemanagement.application\\hr.leavemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B44E2ABE-060E-40C4-8AFC-739FEA6ED45D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\hr.leavemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILeaveTypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:36:53.876Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -63,77 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T12:52:40.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BadRequestException.cs",
-              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Exceptions\\BadRequestException.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Exceptions\\BadRequestException.cs",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Exceptions\\BadRequestException.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Exceptions\\BadRequestException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T12:30:48.044Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DeleteLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T04:04:30.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CreateLeaveTypeCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
               "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
               "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T11:00:16.239Z",
+              "WhenOpened": "2025-02-04T04:03:48.319Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateLeaveTypeCommand.cs",
-              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:56:29.839Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateLeaveTypeCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Title": "UpdateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:54:50.006Z",
+              "WhenOpened": "2025-02-04T04:03:46.663Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HR.LeaveManagement.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T10:54:25.949Z"
             }
           ]
         },
